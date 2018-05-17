@@ -1,0 +1,10 @@
+
+{
+    "name": "internDB",
+    "host": "",
+    "port": "",
+    "username": "",
+    "password": "",
+    "dialect": "mongodb"
+  
+}
